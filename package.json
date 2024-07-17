@@ -1,0 +1,17 @@
+{
+  "name": "be.joellebierna.maroom",
+  "version": "0.0.1",
+  "displayName": "Ma room",
+  "description": "Notre classe de GD à Technocité",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://yourcompany.com/yourpackage/documentation",
+  "changelogUrl": "https://yourcompany.com/yourpackage/changelog",
+  "licensesUrl": "https://yourcompany.com/yourpackage/licenses",
+  "author": {
+    "name": "Joelle Bierna",
+    "email": "yourname@yourcompany.com",
+    "url": "https://yourcompany.com/"
+  }
+
+}
