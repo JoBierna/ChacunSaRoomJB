@@ -463,6 +463,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Centre BIERNA JOELLE
       objectReference: {fileID: 0}
+    - target: {fileID: 8888843329278283730, guid: 619beadc4ec007a438c8ea157faa855c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.6891
+      objectReference: {fileID: 0}
+    - target: {fileID: 8888843329278283730, guid: 619beadc4ec007a438c8ea157faa855c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.6209
+      objectReference: {fileID: 0}
+    - target: {fileID: 8888843329278283730, guid: 619beadc4ec007a438c8ea157faa855c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.5194
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
