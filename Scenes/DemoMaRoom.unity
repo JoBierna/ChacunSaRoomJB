@@ -400,7 +400,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9a67c3af7ab7cde4fbcd003080499136, type: 3}
---- !u!1001 &8804962951742905913
+--- !u!1001 &1027137025017602100
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -461,7 +461,7 @@ PrefabInstance:
     - target: {fileID: 4375834229622518458, guid: 619beadc4ec007a438c8ea157faa855c,
         type: 3}
       propertyPath: m_Name
-      value: CenterBIERNAJOELLE
+      value: Centre BIERNA JOELLE
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -475,4 +475,4 @@ SceneRoots:
   - {fileID: 1121824559}
   - {fileID: 1848968308}
   - {fileID: 1928670008}
-  - {fileID: 8804962951742905913}
+  - {fileID: 1027137025017602100}
